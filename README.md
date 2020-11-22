@@ -1,3 +1,15 @@
+# Screenshots
+
+![Screenshot1] (https://github.com/FadliCo/modul3-kel39/blob/master/Screenshot1.PNG)
+
+![Screenshot2] (https://github.com/FadliCo/modul3-kel39/blob/master/Screenshot2.PNG)
+
+![Screenshot3] (https://github.com/FadliCo/modul3-kel39/blob/master/Screenshot3.PNG)
+
+![Screenshot4] (https://github.com/FadliCo/modul3-kel39/blob/master/Screenshot4.PNG)
+
+![Screenshot5] (https://github.com/FadliCo/modul3-kel39/blob/master/Screenshot5.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
